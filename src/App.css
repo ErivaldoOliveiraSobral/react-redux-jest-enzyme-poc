@@ -1,0 +1,9 @@
+.App {
+    display: flex;
+}
+.Menu {
+    width: 30%;
+}
+.Main {
+    width: 70%;
+}
